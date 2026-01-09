@@ -1,3 +1,7 @@
 body {
     background-color: rgb(0, 255, 98);
 }
+
+p, h1{
+    color: blueviolet;
+}
